@@ -8,7 +8,7 @@
 #### About Me
 
 - Born in Bahawalpur, Pakistan🇵🇰
-- Living in UAE🇦🇪
+- Living in the UAE🇦🇪
 - Loves Technology and Programming🤖
 - Self-Taught Programmer👨‍💻
 - Learned Programming on my Phone📱
@@ -20,7 +20,7 @@
 
 - Not old enough to have a career🐣
 - 3 years of experience with Game Development(LibGDX, Godot, Unity)🎮
-- 1 year of experience with Backend Web Development(HTML, JS, ReactJS)🌐
+- 1.5 years of experience with Web Development(HTML, JS, ReactJS)🌐
 - 1 year of experience with App Development(Flutter, Native Java)📱
 
 ---

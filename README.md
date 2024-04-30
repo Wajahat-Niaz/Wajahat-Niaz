@@ -36,7 +36,7 @@
 #### Where To Find Me
 
 - Here👋
-- Not in a book since I'm not Waldo or Famous📙
+- In a book📙(someday)
 - [Discord🤖](discordapp.com/users/688009834070671411)
 - [Email✉️](mailto:wajahatniaz2@gmail.com)
 

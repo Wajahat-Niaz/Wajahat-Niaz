@@ -20,8 +20,9 @@
 
 - Not old enough to have a career🐣
 - 3 years of experience with Game Development(LibGDX, Godot, Unity)🎮
-- 1.5 years of experience with Web Development(HTML, JS, ReactJS)🌐
+- 4+ years of experience with Full Stack Web Development(ReactJS, Django)🌐
 - 1 year of experience with App Development(Flutter, Native Java)📱
+- https://wajahat-niaz.vercel.app/
 
 ---
 
